@@ -1,3 +1,5 @@
+### contains all the functions that main.py uses
+
 import requests
 from bs4 import BeautifulSoup
 import re
