@@ -6,7 +6,7 @@ Using requests, bs4, and some standard python packages, pulls match data statist
 Match data not formatted, ended up as objects instead of intended format (datetime, int, lists) but just format that before you do your analysis, might add in formatting in the future.
 
 below are the column headers + examples of each entry 
-link': /matches/4747505750
+link': /matches/4747505750 /n
 result': won
 skill_bracket': normal
 'lobby_type': all pick
