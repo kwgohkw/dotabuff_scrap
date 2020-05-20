@@ -6,38 +6,38 @@ Using requests, bs4, and some standard python packages, pulls match data statist
 Match data not formatted, ended up as objects instead of intended format (datetime, int, lists) but just format that before you do your analysis, might add in formatting in the future.
 
 below are the column headers + examples of each entry 
-link': /matches/4747505750 /n
-result': won
-skill_bracket': normal
-'lobby_type': all pick
-'game_mode': turbbo
-'region': SEA
-'duration': 34:40
-'match_date': 2020-05-20
-hero': Sniper
-'final_lvl': 25
-'k': 5
-'d': 2
-'a': 15
-'net': 1.5k
-'lh': 100
-'dn': 23
-'gpm': 850
-'xpm': 620
-'dmg': 3.2k
-'heal': 0
-'bld': 153
-'wards': 12/5
-'final_items': ['Boots of Travel', 'Desolator','Black King Bar']
-team_k': 6
-'team_d': 20
-'team_a': 50
-'team_net': 6.5k
-'team_lh': 500
-'team_dn': 120
-'team_gpm': 500
-team_xpm': 600
-'team_dmg': 8.5k
-'team_heal': 200
-'team_bld': 4.5k
-'team_wards': 20/10
+'link': /matches/4747505750<br />
+'result': won<br />
+'skill_bracket': normal<br />
+'lobby_type': all pick<br />
+'game_mode': turbbo<br />
+'region': SEA<br />
+'duration': 34:30<br />
+'match_date': 2020-05-20<br />
+hero': Sniper<br />
+'final_lvl': 25<br />
+'k': 5<br />
+'d': 2<br />
+'a': 15<br />
+'net': 1.5k<br />
+'lh': 100<br />
+'dn': 23<br />
+'gpm': 850<br />
+'xpm': 620<br />
+'dmg': 3.2k<br />
+'heal': 0<br />
+'bld': 153<br />
+'wards': 12/5<br />
+'final_items': ['Boots of Travel', 'Desolator','Black King Bar']<br />
+team_k': 6<br />
+'team_d': 20<br />
+'team_a': 50<br />
+'team_net': 6.5k<br />
+'team_lh': 500<br />
+'team_dn': 120<br />
+'team_gpm': 500<br />
+team_xpm': 600<br />
+'team_dmg': 8.5k<br />
+'team_heal': 200<br />
+'team_bld': 4.5k<br />
+'team_wards': 20/10<br />
