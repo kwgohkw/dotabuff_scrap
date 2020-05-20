@@ -1,3 +1,5 @@
+### code to rotate between IP addresses and user-agent for the headers of the requests, but cannot find good free ip-addresses.
+### code here for reference only, not used
 import requests
 from lxml.html import fromstring
 from itertools import cycle
