@@ -1,11 +1,15 @@
 # dotabuff_scrap
 scraping your own (or other people's) DoTA match statistics for analysis
 <br /> 
+<br /> 
 Using requests, bs4, and some standard python packages, pulls match data statistics into a CSV file which you can then use your data science know-how to squeeze some insights on your dota gameplay, or maybe just found out how addicted you are looking at your number of matches per day and time spent on the game.
+<br /> 
 <br /> 
 CSV file will be created if not found in the same folder as main.py, and updated only with new matches if found.
 <br /> 
+<br /> 
 Match data not formatted, ended up as objects instead of intended format (datetime, int, lists) but just format that before you do your analysis, might add in formatting in the future.
+<br /> 
 <br /> 
 below are the column headers + examples of each entry: 
 <br /> 
